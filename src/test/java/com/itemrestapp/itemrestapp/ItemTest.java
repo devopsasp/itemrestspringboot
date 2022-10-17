@@ -36,6 +36,8 @@ class ItemTest {
 	ItemDao itemDao;
 	@BeforeAll
 	static void setUpBeforeClass() throws Exception {
+System.out.println("setup started");
+	
 	}
 
 	@AfterAll
