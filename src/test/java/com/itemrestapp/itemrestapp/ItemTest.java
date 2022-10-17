@@ -37,6 +37,7 @@ class ItemTest {
 	@BeforeAll
 	static void setUpBeforeClass() throws Exception {
 System.out.println("setup started");
+System.out.println("saved");
 	
 	}
 
